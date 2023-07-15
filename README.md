@@ -1,4 +1,4 @@
 # my_paint
 use the command
-./42sh
+./my_paint
 to open the birany
